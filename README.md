@@ -111,7 +111,7 @@ streamlit run prompts_ui.py
 
 ## Study Assistant Chatbot
 
-![Study Assistant Chatbot UI](./0aef7be8-4f25-455f-9ade-36ad0f5bd7e0.png)
+![Study Assistant Chatbot UI](image.png)!
 
 An interactive, LLM-powered **AI tutor** built with **LangChain** and **Streamlit**, designed to help students explore and understand machine learning concepts (and beyond) in a conversational interface.
 
